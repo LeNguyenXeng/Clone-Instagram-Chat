@@ -17,8 +17,6 @@ A clone of Instagram's messaging interface built using **React**, **Bootstrap**,
 ## 🛠 Tech Stack
 
 - React
-- Bootstrap 4/5
+- Bootstrap 5
 - React Icons
-
-## 📂 Folder Structure (optional)
 
